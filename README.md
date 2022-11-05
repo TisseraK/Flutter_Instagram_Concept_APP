@@ -1,17 +1,6 @@
-# instagram
+# Concept App Instagram in Flutter
 
-A new Flutter project.
+📍 Objectif : Creating a mobile application in <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white" />  from a predefined design found on Behance.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Flutter_Instagram_Concept_APP
+![Design](https://github.com/TisseraK/Flutter_Instagram_Concept_APP/blob/main/asset/github.png)
